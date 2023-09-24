@@ -5,7 +5,7 @@
 [GitHub](https://github.com/JacobJ215/YOLO-NAS-SAM/)
 
 
-This code demonstrates how to perform object detection and image segmentation using YOLO-NAS for object detection and SAM for image segmentation. YOLO-NAS developed by DeciAi is a state-of-the-art object detection model optimized for both accuracy and low-latency inference. SAM, on the other hand, is a powerful segmentation model developed by Meta AI.
+This project demonstrates how to perform object detection and image segmentation using YOLO-NAS for object detection and SAM for image segmentation. YOLO-NAS developed by DeciAi is a state-of-the-art object detection model optimized for both accuracy and low-latency inference. SAM, on the other hand, is a powerful segmentation model developed by Meta AI.
 
 ## Technologies Used
 - Python
